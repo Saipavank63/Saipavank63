@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<a href="https://www.linkedin.com/in/saipavank/">LinkedIn: saipavank</a>  
-<a href="mailto:saipavank@gmail.com">Email: saipavank@gmail.com</a>
+<h1>LinkedIn: </h1> <a href="https://www.linkedin.com/in/saipavank/">saipavank</a> <br> 
+<h1>Email: </h1><a href="mailto:saipavank@gmail.com">saipavank@gmail.com</a>
 
 
 <!--
