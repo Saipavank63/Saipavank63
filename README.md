@@ -1,7 +1,9 @@
 ## Hi there 👋
+**LinkedIn:**
+https://www.linkedin.com/in/saipavank/
 
-<h2>LinkedIn: </h2> <a href="https://www.linkedin.com/in/saipavank/">saipavank</a>
-<h2>Email: </h2><a href="mailto:saipavank@gmail.com">saipavank@gmail.com</a>
+**Email:**
+saipavank63@gmail.com
 
 
 <!--
