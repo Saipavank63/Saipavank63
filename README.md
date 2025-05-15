@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://www.linkedin.com/in/saipavank/">LinkedIn: saipavank</a>  
+<a href="mailto:saipavank@gmail.com">Email: saipavank@gmail.com</a>
+
+
 <!--
 **Saipavank63/Saipavank63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
