@@ -66,5 +66,6 @@ Reduce response times and storage costs while improving user experience during c
 
 ---
 
-**Visitors:** ![Visitor Count](https://profile-counter.glitch.me/Saipavank63/count.svg)
+**Visitors:** ![Static Badge](https://img.shields.io/badge/visitors-tracking_disabled-lightgrey)
+
 
