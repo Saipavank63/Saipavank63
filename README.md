@@ -1,7 +1,7 @@
 # 👨‍💻 Sai Pavan – Data Engineer | Real-Time analytics and Scalable Streaming Data
 
 
-**📍 Location:** United States
+**📍 Location:** United States  
 **📧 Email:** saipavank0801@gmail.com  
 **🔗 LinkedIn:** [linkedin.com/in/saipavank](https://www.linkedin.com/in/saipavank/)  
 **💻 GitHub:** [Saipavank63](https://github.com/Saipavank63)
@@ -12,11 +12,11 @@
 
 Hi, I’m Sai Pavan Katineedi – a Data Engineer passionate about building scalable data platforms, streaming pipelines, and AI-driven analytics.
 
-🔹 I have 4+ years of experience designing ETL/ELT workflows, real-time data pipelines, and cloud-native architectures across AWS, Azure, and GCP.
-🔹 Skilled in Spark, Kafka, Airflow, dbt, Snowflake, Redshift, Synapse, and modern data lakehouse solutions.
-🔹 Experienced in MLOps & Data Governance – integrating ML models into production pipelines, applying data quality frameworks, and ensuring compliance.
-🔹 Strong background in CI/CD & Infrastructure as Code with Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
-🔹 Domain expertise across finance, e-commerce, and real-time analytics, including projects like Driver Risk Analytics and Real-Time Roadside Assistance.
+🔹 I have 4+ years of experience designing ETL/ELT workflows, real-time data pipelines, and cloud-native architectures across AWS, Azure, and GCP.  
+🔹 Skilled in Spark, Kafka, Airflow, dbt, Snowflake, Redshift, Synapse, and modern data lakehouse solutions.  
+🔹 Experienced in MLOps & Data Governance – integrating ML models into production pipelines, applying data quality frameworks, and ensuring compliance.  
+🔹 Strong background in CI/CD & Infrastructure as Code with Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.  
+🔹 Domain expertise across finance, e-commerce, and real-time analytics, including projects like Driver Risk Analytics and Real-Time Roadside Assistance.  
 
 💡 I enjoy solving complex data problems, automating workflows, and enabling teams to get the most value out of their data.
 
