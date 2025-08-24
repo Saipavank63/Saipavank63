@@ -1,4 +1,5 @@
-# 👨‍💻 Sai Pavan Katineedi – Data Engineer | Real-Time & AI-Powered Systems
+# 👨‍💻 Sai Pavan – Data Engineer | Real-Time analytics and Scalable Streaming Data
+
 
 **📍 Location:** United States
 **📧 Email:** saipavank0801@gmail.com  
@@ -7,9 +8,19 @@
 
 ---
 
-## 🚀 About Me
+👋 About Me
 
-I'm a Data Engineer with 4+ years of experience designing scalable data pipelines and real-time analytics systems across AWS, Azure, and GCP. My work blends streaming architecture, AI readiness, and performance optimization to drive business impact through clean, reliable, and production-ready data.
+Hi, I’m Sai Pavan Katineedi – a Data Engineer passionate about building scalable data platforms, streaming pipelines, and AI-driven analytics.
+
+🔹 I have 4+ years of experience designing ETL/ELT workflows, real-time data pipelines, and cloud-native architectures across AWS, Azure, and GCP.
+🔹 Skilled in Spark, Kafka, Airflow, dbt, Snowflake, Redshift, Synapse, and modern data lakehouse solutions.
+🔹 Experienced in MLOps & Data Governance – integrating ML models into production pipelines, applying data quality frameworks, and ensuring compliance.
+🔹 Strong background in CI/CD & Infrastructure as Code with Terraform, Docker, Kubernetes, Jenkins, and GitHub Actions.
+🔹 Domain expertise across finance, e-commerce, and real-time analytics, including projects like Driver Risk Analytics and Real-Time Roadside Assistance.
+
+💡 I enjoy solving complex data problems, automating workflows, and enabling teams to get the most value out of their data.
+
+🚀 Always exploring new tools in the modern data stack, experimenting with AI, and sharing knowledge with the community.
 
 ---
 
@@ -90,6 +101,39 @@ I'm a Data Engineer with 4+ years of experience designing scalable data pipeline
 
 ---
 
+## 💼 Experience  
+
+### 🚀 Data Engineer  
+**Dell Technologies (Client: Boston Medical Center) | Remote, USA | Aug 2024 – Present**  
+- Designed and deployed **ETL/ELT pipelines** with Airflow, AWS Glue, and dbt.  
+- Built **real-time streaming pipelines** using Kafka, Spark, and Kinesis, reducing data latency from hours to minutes.  
+- Automated infrastructure with **Terraform, Docker, and Kubernetes** for consistent deployments.  
+- Established **data governance practices** with cataloging, lineage, and schema management.  
+- Collaborated with BI teams to build semantic layers in **Snowflake and Redshift** for Tableau & Power BI.  
+- Integrated **ML model outputs** into data pipelines for recommendation systems and decision-making.  
+
+---
+
+### ⚡ Data Engineer II  
+**Cybage Software (Client: HSBC Bank) | Pune, India | Apr 2022 – Jun 2023**  
+- Built pipelines with **Azure Data Factory, Spark, and PySpark**, supporting **100+ reporting and compliance use cases**.  
+- Migrated workloads from SQL Server/Oracle to **Snowflake and Azure SQL**, cutting query times from hours to minutes.  
+- Processed **500K+ daily transactions** via Spark Streaming for financial compliance.  
+- Implemented **RBAC, encryption, and Azure Key Vault** to strengthen data security.  
+- Automated workflows with **Jenkins, GitHub Actions, and dbt** to reduce manual effort.  
+- Integrated **Azure Databricks with Synapse** for AML/KYC analytics, boosting fraud detection accuracy.  
+
+---
+
+### 📊 Associate Data Engineer  
+**Cybage Software | Jan 2020 – Mar 2022**  
+- Developed Python-based ETL scripts to ingest clickstream & transaction data into **AWS S3 and Redshift**.  
+- Built **Airflow DAGs** to orchestrate and monitor pipelines with alerting.  
+- Supported schema design, SQL transformations, and **data lake optimization** for analytics.  
+- Worked on documentation of **data lineage, workflows, and troubleshooting guides**.  
+
+---
+
 ## 📂 Featured Projects
 
 ### [🚘 Driver Analytics Platform](https://github.com/Saipavank63/Driver-Analytics-Platform)
@@ -128,9 +172,8 @@ Reduce response times and storage costs while improving user experience during c
 
 ## 🏆 Achievements
 
-- Delivered production-grade pipelines in FinTech, E-commerce, and AI projects
+- Delivered production-grade pipelines in FinTech, HealthCare
 - Hands-on with both batch and streaming architectures at scale
-- Cross-functional collaboration with ML, QA, and DevOps teams
 
 ---
 
